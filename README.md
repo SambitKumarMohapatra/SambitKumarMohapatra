@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sambit kumar Mohapatra</h1>
-<h3 align="center">🚀 Building with Java, Spring Boot & React</h3>
+<h3 align="center">🚀 Building with Java, Spring Boot </h3>
 
 - 📫 How to reach me **sk01mohapatra@gmail.com**
 
